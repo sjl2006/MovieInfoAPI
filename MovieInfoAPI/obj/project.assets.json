@@ -847,11 +847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\test\\MovieInfoAPI\\MovieInfoAPI\\MovieInfoAPI.csproj",
+      "projectUniqueName": "C:\\Development\\test\\test5\\movieInfoAPI\\MovieInfoAPI\\MovieInfoAPI.csproj",
       "projectName": "MovieInfoAPI",
-      "projectPath": "C:\\Development\\test\\MovieInfoAPI\\MovieInfoAPI\\MovieInfoAPI.csproj",
+      "projectPath": "C:\\Development\\test\\test5\\movieInfoAPI\\MovieInfoAPI\\MovieInfoAPI.csproj",
       "packagesPath": "C:\\Users\\lhy\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\test\\MovieInfoAPI\\MovieInfoAPI\\obj\\",
+      "outputPath": "C:\\Development\\test\\test5\\movieInfoAPI\\MovieInfoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

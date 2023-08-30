@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rEMTTDYSO7hWSZGW1aM0qxj/4o9DuxMgz6ag9kYC0OZnFkbqt60I/AUr0rT5Q7vLxKx3JDsGdHpeI7LGM7oGug==",
+  "dgSpecHash": "GXR1+SCO2vBMHosV9pN/RRiM3ASS3TuUL96rSZztKsQpwhlSaXKXAsM2buiyAqNYcZfbcmy+7Hhp7t07kTEC0g==",
   "success": true,
-  "projectFilePath": "C:\\Development\\test\\MovieInfoAPI\\MovieInfoAPI\\MovieInfoAPI.csproj",
+  "projectFilePath": "C:\\Development\\test\\test5\\movieInfoAPI\\MovieInfoAPI\\MovieInfoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lhy\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.21\\microsoft.aspnetcore.authentication.jwtbearer.6.0.21.nupkg.sha512",
     "C:\\Users\\lhy\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
